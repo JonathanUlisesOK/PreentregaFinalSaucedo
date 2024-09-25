@@ -1,0 +1,44 @@
+[
+    {
+    "id": 1,
+    "Nombre": "Remera Adidas Clima-Cool",
+    "descripcion": "Disponible en varios colores y talles a eleccion",
+    "imageUrl": "../assets/remeraAdidas.jpg",
+    "precio": 15000
+    },
+    {
+    "id": 2,
+    "Nombre": "Campera Jordan Essentials",
+    "descripcion": "Disponible en varios colores y talles a eleccion",
+    "imageUrl": "../assets/camperaJordan.jpg",
+    "precio": 95000
+    },
+    {
+    "id": 3,
+    "Nombre": "Pantalon Adidas Joggin",
+    "descripcion": "Disponible en varios colores y talles a eleccion",
+    "imageUrl": "../assets/pantalonAdidas.jpg",
+    "precio": 90000
+    },
+    {
+    "id": 4,
+    "Nombre": "Campera Adidas Monogram",
+    "descripcion": "Disponible en varios colores y talles a eleccion",
+    "imageUrl": "../assets/camperaAdidas.jpg",
+    "precio": 75000
+    },
+    {
+    "id": 5,
+    "Nombre": "Remera Fila",
+    "descripcion": "Disponible en varios colores y talles a eleccion",
+    "imageUrl": "../assets/remeraFila.jpg",
+    "precio": 20000
+    },
+    {
+    "id": 6,
+    "Nombre": "Pantalon Nike Sportwear",
+    "descripcion": "Disponible en varios colores y talles a eleccion",
+    "imageUrl": "../assets/pantalonNike.jpg",
+    "precio": 75000
+    }
+]
